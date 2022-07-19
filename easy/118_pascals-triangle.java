@@ -1,6 +1,6 @@
 import java.util.*;
 /*
-https://leetcode.com/problems/two-sum/
+https://leetcode.com/problems/pascals-triangle/
 */
 class Solution {
     public List<List<Integer>> generate(int numRows) {
